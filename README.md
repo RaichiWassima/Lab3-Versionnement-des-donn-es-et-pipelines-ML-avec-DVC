@@ -66,7 +66,7 @@ Après modification d’une étape, `dvc repro` a permis de relancer uniquement 
 
 ---
 
-## ✅ Résultats obtenus
+## Résultats obtenus
 - Versionnement fiable des données et modèles
 - Pipeline ML entièrement reproductible
 - Séparation claire entre code (Git) et données (DVC)
